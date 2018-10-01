@@ -1,0 +1,2 @@
+Promedio: 134.8648369405249
+Desviación estándar: 66.16860688277912
